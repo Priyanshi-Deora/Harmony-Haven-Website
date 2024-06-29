@@ -1,0 +1,25 @@
+a {
+    font-size: 20px;
+}
+
+.carousel-inner img {
+    width: 80%;
+    height: 600px;
+}
+
+body {
+    background-color: #bcbca7;
+}
+
+nav {
+    background-color: #F4F1E9;
+}
+
+#menu {
+    color: #977151;
+}
+
+#men {
+    color: #977151;
+    background-color: #F4F1E9;
+}
